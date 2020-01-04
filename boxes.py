@@ -26,3 +26,5 @@ points = (
 )
 draw.line(points, fill='#00d400', width=2)
 im.show()
+
+print('hola')
